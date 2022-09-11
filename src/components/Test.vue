@@ -103,14 +103,6 @@ export default {};
     width: 1140px;
     height: 430px;
     border-radius: 12px;
-
-    background: linear-gradient(
-        90deg,
-        rgba(4, 12, 28, 0.65) 26.59%,
-        rgba(0, 0, 0, 0) 75.7%
-    );
-    z-index: 9;
-
 }
 
 .carousel-item img {
@@ -266,8 +258,6 @@ export default {};
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-
-    
 }
 
 </style>

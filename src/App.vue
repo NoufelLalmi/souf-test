@@ -3,21 +3,21 @@
     <img alt="Vue logo" src="./assets/logo.png">
     <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
     <slide></slide>
-    <test></test>
+    <!-- <test></test> -->
   </div>
 </template>
 
 <script>
 // import HelloWorld from './components/HelloWorld.vue'
 import Slide from './components/Slide.vue'
-import Test from './components/Test.vue'
+// import Test from './components/Test.vue'
 
 export default {
   name: 'App',
   components: {
     // HelloWorld
     Slide,
-    Test
+    // Test
   }
 }
 </script>
